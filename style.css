@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&family=Raleway:wght@700&family=Roboto+Slab&display=swap');
+
+body {
+    background-image: url('pictures/cbook.jpg');
+    background-size: 1920px, 1080px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+}
+
+h2 {
+    font-family: 'Delius', cursive;
+    position: absolute;
+    max-width: 30vw;
+    margin: auto;
+    top: 475px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+}
+
+div {
+    position: absolute;
+    max-width: 30vw;
+    margin: auto;
+    top: 500px;
+    right: 0px;
+    bottom: 0px;
+    left: -49px;
+}
+
+a {
+    font-family: 'Delius', cursive;
+    color: black;
+}
